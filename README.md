@@ -1,8 +1,9 @@
 # tugas-mobile
 ---
+## klik tugas yang ingin dikerjakan
 ### 1. [Materi 11](./materi11.md)
-### 1. [Materi 12](./materi12.md)
-### 1. [Materi API](./materi12.md)
+### 2. [Materi 12](./materi12.md)
+### 3. [Materi API](./materi12.md)
 
 
 
