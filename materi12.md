@@ -92,7 +92,8 @@ class _BelajarNavBarState extends State<BelajarNavBar> {
 }
 ```
 
-lalu 
+
+lalu buka terminal (ctrl+`) dan ketik perintah berikut
 ```bash
 flutter run
 ```
