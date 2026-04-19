@@ -4,8 +4,7 @@
 ### 1. [Materi 12](./materi12.md)
 ### 1. [Materi API](./materi12.md)
 
-\
-\
+
 
 ---
 # Sedikit tutorial menjalankan project di HP android
