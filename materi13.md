@@ -245,7 +245,8 @@ class _HomePageState extends State<HomePage> {
 }
 ```
 
-lalu 
+
+lalu buka terminal (ctrl+`) dan ketik perintah berikut
 ```bash
 flutter run
 ```
