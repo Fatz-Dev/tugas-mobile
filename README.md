@@ -6,7 +6,7 @@
 
 \
 \
-\
+
 ---
 # Sedikit tutorial menjalankan project di HP android
 
